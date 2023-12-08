@@ -1,6 +1,7 @@
+![Img minecraft](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/77d3968d-b0af-41c6-9876-0107b7f4c043)
 # api-personajes-minecraft
 Api de personajes de minecraft creada con python y uso de pgadmin 4
-![Img minecraft](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/77d3968d-b0af-41c6-9876-0107b7f4c043)
+
 Pasos:
    
 Instalar postgresql en linux mint
