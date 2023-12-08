@@ -5,7 +5,7 @@ Api de personajes de minecraft creada con python y uso de pgadmin 4
 Pasos:
    
 Instalar postgresql en linux mint
-#Comandos de instalación de Postgresql y Pgadmin
+#Comandos de instalación de Postgresql y Pgadmin4
 1)sudo apt-get update
 2)sudo apt install postgresql postgresql-contrib
 3)sudo su - postgres
