@@ -6,6 +6,9 @@ Pasos:
    
 Instalar postgresql en linux mint
 #Comandos de instalación de Postgresql y Pgadmin4
+
+![Postgresql y pgadmin4](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/d174927f-ca6e-4e20-b0f5-51fb3e9d3726)
+
 1)sudo apt-get update
 2)sudo apt install postgresql postgresql-contrib
 3)sudo su - postgres
@@ -40,9 +43,12 @@ Nota: Id siempre será clave primaria, y en este caso el tipo de dato es serial 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Descargar Postman del sitio web oficial
-	https://www.postman.com/downloads/
+![Postman](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/e2f65a29-5b7d-4b1c-a214-3412ec190378)
+
+https://www.postman.com/downloads/
+ 
 1) Descomprimir el archivo
-	sudo tar -xzf postman-linux-x64.tar.gz -C /opt
+sudo tar -xzf postman-linux-x64.tar.gz -C /opt
 2) sudo ln -s /opt/Postman/Postman /usr/bin/postman
 3) sudo nano /usr/share/applications/postman.desktop
 [Desktop Entry]
