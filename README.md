@@ -17,7 +17,15 @@ Instalar postgresql en linux mint
 Instalación de pgadmin
 1)sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
 2)sudo sh -c '. /etc/upstream-release/lsb-release && echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$DISTRIB_CODENAME pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
-3)sudo apt install pgadmin4
+3)sudo apt install PgAdmin4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Dentro de PgAdmin4
+1) Add New Server (Añadir nuevo servidor)
+2) Ubicar de preferencia el mismo nombre de base de datos al servidor
+3) Luego dirígete al segundo menú "Connection"
+4) En Host name/address ubicar localhost
+5) En username y password ubicar (el usuario y contraseña creados en la consola)
+6) Guardamos (save)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Descargar Postman del sitio web oficial
 	https://www.postman.com/downloads/
