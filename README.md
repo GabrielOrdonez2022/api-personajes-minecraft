@@ -43,6 +43,7 @@ Nota: Id siempre será clave primaria, y en este caso el tipo de dato es serial 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Descargar Postman del sitio web oficial
+
 ![Postman](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/e2f65a29-5b7d-4b1c-a214-3412ec190378)
 
 https://www.postman.com/downloads/
