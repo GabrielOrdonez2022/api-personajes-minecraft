@@ -10,6 +10,7 @@ Instalar postgresql en linux mint
 ![Postgresql y pgadmin4](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/d174927f-ca6e-4e20-b0f5-51fb3e9d3726)
 
 Sistema operativo:
+
 ![linux mint](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/b0904707-de2d-4dbc-b027-45f2b47bc0e0)
 
 1)sudo apt-get update
