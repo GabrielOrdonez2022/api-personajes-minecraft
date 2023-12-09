@@ -26,6 +26,16 @@ Dentro de PgAdmin4
 4) En Host name/address ubicar localhost
 5) En username y password ubicar (el usuario y contraseña creados en la consola)
 6) Guardamos (save)
+   
+Una vez creada la respectiva conexión en PgAdmin4
+1) Visualizarás dentro del server la base de datos que se creó por medio de la consola
+2) Una vez abierta la DB, dirígete a Schemas, luego a tables y crea una tabla llamada personajes
+3) Dentro se deberá crear una tabla con los siguientes campos con su tipo de datos correspondiente, tal como la siguiente:
+![Tipo de datos de campos de tabla personajes](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/15405868-dda6-4d87-b599-8a9065b7ce87)
+Nota: Id siempre será clave primaria, y en este caso el tipo de dato es serial (para que me cree una secuencia y no tenga que escribirlo manualmente al utilizar el método post)
+4) Luego de guardar la tabla, se creará una secuencia como:
+![Secuencia creada automáticamente](https://github.com/GabrielOrdonez2022/api-personajes-minecraft/assets/103681795/e6c01718-2c4d-4cea-a76d-6b4d0d750f6a)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Descargar Postman del sitio web oficial
 	https://www.postman.com/downloads/
