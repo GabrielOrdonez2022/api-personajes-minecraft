@@ -68,7 +68,6 @@ Método post:
   http://localhost:5000/characters -> para crear personajes de minecraft (método post)
   Dentro de body/Raw debe ir los campos con su respectivo contenido a crear
   {
-      "id": "11",
       "name": "Skeleton",
       "description": "Guerrero nato con espada",
       "type": "inmortal",
@@ -79,7 +78,6 @@ Método put:
 http://localhost:5000/characters/1 -> para actualizar buscando por id (método put)
 Dentro de body/Raw debe ir los campos con su respectivo contenido a actualizar
   {
-      "id": "11",
       "name": "Skeleton",
       "description": "Guerrero nato con espada",
       "type": "inmortal",
@@ -88,7 +86,6 @@ Dentro de body/Raw debe ir los campos con su respectivo contenido a actualizar
 http://localhost:5000/characters/Skeleton -> para actualizar buscando por nombre (método put)
 Dentro de body/Raw debe ir los campos con su respectivo contenido a actualizar
   {
-      "id": "11",
       "name": "Skeleton",
       "description": "Guerrero nato con espada",
       "type": "inmortal",
