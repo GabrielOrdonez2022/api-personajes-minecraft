@@ -18,8 +18,8 @@ Sistema operativo:
 2)sudo apt install postgresql postgresql-contrib
 3)sudo su - postgres
 4)psql
-5)create user gabriel with password '1234’';
-6)create database personajes minecraft with owner gabriel;
+5)create user gabriel with password '1234';
+6)create database personajesminecraft with owner gabriel;
 7)alter user gabriel with superuser;
 8)poner “exit” para salir (x2 veces)
 Instalación de pgadmin
